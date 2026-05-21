@@ -1,9 +1,6 @@
 # Screenshots
 
-The lab requires **exactly 10 screenshots**. Drop your captures in this folder using the
-filenames below so they line up with the write-up. Make sure your terminal prompt shows
-your name/date (per the tab-labeling step) on every shell screenshot — captures missing it
-lose half a mark.
+
 
 | #  | Filename                          | What it should show                                  |
 | -- | --------------------------------- | ---------------------------------------------------- |
@@ -19,4 +16,4 @@ lose half a mark.
 | 10 | `04-ws-msf-smb-rdp.png`           | Part 4.3 — Metasploit `smb_version` + `rdp_scanner`  |
 
 > The numbering above maps screenshots to the lab parts that explicitly request them.
-> Adjust filenames if your instructor's submission format differs.
+
